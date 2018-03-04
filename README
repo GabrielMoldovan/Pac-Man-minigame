@@ -7,3 +7,9 @@ obstacolelor. In cadrul structurii repetitive ma folosesc de o functie pentru
 afisarea tabelei de joc, o functie pentru mutarea jucatorului, o functie pentru
 mutarea obstacolelor si o functie ce verifica suprapunerea jucatorului cu 
 un obstacol.
+
+Input format: latime inaltime ->harta
+	      posx posy ->player
+	      nr_obstacole
+	      posx posy type ->obstacol
+			
