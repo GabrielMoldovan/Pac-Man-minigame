@@ -1,0 +1,9 @@
+
+Pacman: 
+	Pentru implementarea acestui minigame am folosit in main o strucutra repetitiva
+ce isi intrerupe ciclul in momentul in care coordonatele jucatorului sunt cele
+din pozitia castigatoare sau cand jucatorul nu mai are mutari valide din cauza
+obstacolelor. In cadrul structurii repetitive ma folosesc de o functie pentru
+afisarea tabelei de joc, o functie pentru mutarea jucatorului, o functie pentru
+mutarea obstacolelor si o functie ce verifica suprapunerea jucatorului cu 
+un obstacol.
